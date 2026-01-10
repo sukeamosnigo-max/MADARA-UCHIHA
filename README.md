@@ -6,10 +6,18 @@ MADARA UCHIHA is a high-performance, feature-rich WhatsApp bot built using the B
 
 ---
 
-## 🔗 Quick Links
-- **Session/Pairing Site:** [madara-session.reesetech.top](https://madara-session.reesetech.top)
-- **Creator:** John Reese
-- **Support Group:** [Join Here](https://chat.whatsapp.com/your-link)
+## 🚀 Quick Start
+
+### 1. Get Session ID
+To use the bot, you need a `SESSION_ID`. You can get it through our official pairing website:
+👉 **[Madara Session Pairing Website](https://madara-session.reesetech.top)**
+
+## ⚙️ Configuration
+
+Set these environment variables in your hosting environment:
+
+- `SESSION_ID`: Your base64 encoded session credentials.
+- `OWNER_NUMBER`: The phone number of the bot owner.
 
 ---
 
