@@ -14,10 +14,9 @@ To use the bot, you need a `SESSION_ID`. You can get it through our official pai
 
 ## ⚙️ Configuration
 
-Set these environment variables in your hosting environment:
+Create a .env file or set these environment variables in your hosting environment:
 
 - `SESSION_ID`: Your base64 encoded session credentials.
-- `OWNER_NUMBER`: The phone number of the bot owner.
 
 ---
 
@@ -51,7 +50,6 @@ Set these environment variables in your hosting environment:
 1. **Get Session ID:** Visit [madara-session.reesetech.top](https://madara-session.reesetech.top) to link your WhatsApp and receive your `SESSION_ID`.
 2. **Environment Variables:** Set the following in your `.env` or Secrets:
    - `SESSION_ID`: Your base64 session ID.
-   - `OWNER_NUMBER`: Your phone number (with country code).
 3. **Run:**
    ```bash
    npm install
