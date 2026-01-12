@@ -18,7 +18,24 @@ Create a .env file or set these environment variables in your hosting environmen
 
 - `SESSION_ID`: Your base64 encoded session credentials.
 
----
+## 📡 DEPLOYMENT SITES
+<p align="center">Deploy your <strong>MADARA-UCHIHA Bot</strong> with one click on your favorite hosting platforms.</p>
+<div align="center">
+<table>
+<tr>
+<td><a href="https:                                                                                                                                                                                                                          
+<td><a href="https://replit.com/github/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+</tr>
+<tr>
+<td><a href="https:                                                                                                                                                                                                                                       
+<td><a href="https://railway.app/new/template?template=https://github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+</tr>
+<tr>
+<td><a href="https:                                                                                                                                                                                                                                            
+<td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+</tr>
+</table>
+</div>
 
 ## ⚡ Key Features
 
